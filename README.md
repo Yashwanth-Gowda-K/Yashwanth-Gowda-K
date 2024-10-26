@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Yashwanth-Gowda-K
-- 👀 I’m interested in breaking things 
-- 🌱 I’m currently learning full stack web development 
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning python amd C
 - 📫 How to reach me yashyash808859@gmail.com
-- 😄 Pronouns: He
 
 
 <!---
